@@ -1,0 +1,400 @@
+/*body {*/
+/*    background: #0eeb70*/
+/*}*/
+/*img {*/
+/*    position: relative;*/
+/*    top:-20px;*/
+/*    left: -50px;*/
+/*    width:100%;*/
+/*    height: 100%;*/
+/*}*/
+
+* {
+    margin:0;
+}
+
+.leaf1 {
+    position: absolute;
+    width: 60px;
+    height: 40px;
+    top: 12%;
+    left: 0%;
+
+}
+.leaf2{
+    position: absolute;
+    height: 70px;
+    top: 10%;
+    left: 0%;
+
+}
+
+.leaf3{
+    position: absolute;
+    height: 70px;
+    top: 13%;
+    left: 0%;
+
+}
+.leaf4{
+    position: absolute;
+    height: 70px;
+    top: 10%;
+    left: 0%;
+
+}
+.leaf5{
+    position: absolute;
+    height: 70px;
+    top: 10%;
+    left: 0%;
+
+}
+
+
+#navbar {
+    background: cadetblue;
+}
+
+#whyaff{
+
+    background-image: url('wdp1green.jpeg');
+    height: 1000px;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    overflow: hidden;
+}
+
+.whyaff {
+    background-image: url('wdp1green.jpeg');
+    height: 2000px;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    overflow: hidden;
+}
+
+#whyaff2 {
+    height: 1000px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#whynodeff{
+
+    background-image: url('wdp1brown.jpg');
+    height: 2000px;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+/*#leaf1 {*/
+/*    position: relative;*/
+/*    width:60px;*/
+/*    height: 40px;*/
+/*    display: block;*/
+
+/*}*/
+
+#leaf2 {
+    position: relative;
+    width:60px;
+    height: 40px;
+    display: block;
+
+    left: 20%;
+    top: 20%;
+}
+
+#leaf3 {
+    position: relative;
+    width:60px;
+    height: 40px;
+    display: block;
+
+}
+
+#leaf4 {
+    position: relative;
+    width:60px;
+    height: 40px;
+    display: block;
+
+    left: 20%;
+    top: 20%;
+}
+
+#leaf5 {
+    position: relative;
+    width:60px;
+    height: 40px;
+    display: block;
+    left: 20%;
+    top: 20%;
+}
+
+.rtldown {
+    position: absolute;
+    height: 70px;
+    top: 0%;
+    left: 0%;
+
+}
+
+.rtlstraight {
+    position: absolute;
+    height: 70px;
+    top: 3%;
+    left: 0%;
+
+}
+
+.rtlup {
+    position: absolute;
+    height: 70px;
+    top: 3%;
+    left: 0%;
+
+}
+
+#rtldown {
+    position: relative;
+    width:70px;
+    height: 50px;
+    padding-left: 1300px;
+
+}
+
+#rtlup {
+    position: relative;
+    width:70px;
+    height: 50px;
+    padding-left: 1300px;
+
+}
+
+#rtlstraight {
+    position: relative;
+    width:70px;
+    height: 50px;
+    padding-left: 1300px;
+
+}
+
+
+
+#Aff {
+    font-family: Serif, sans-serif;
+    color: green;
+    padding-top: 100px;
+    font-size: 70px;
+    position: absolute;
+}
+
+video {
+object-fit: cover;
+}
+
+
+
+
+
+
+
+#leaf12 {
+    position: relative;
+    width:70px;
+    height: 50px;
+    display: block;
+
+}
+
+#leaf22 {
+    position: relative;
+    width:70px;
+    height: 50px;
+    display: block;
+    padding-left: 100px;
+}
+
+#leaf32 {
+    position: relative;
+    width:70px;
+    height: 50px;
+    display: block;
+
+}
+
+#leaf42 {
+    position: relative;
+    width:70px;
+    height: 50px;
+    display: block;
+    padding-left: 550px;
+}
+
+#leaf52 {
+    position: relative;
+    width:70px;
+    height: 50px;
+    display: block;
+    padding-left: 700px;
+}
+
+#rtldown2 {
+    position: relative;
+    width:70px;
+    height: 50px;
+    padding-left: 1300px;
+
+}
+
+#rtlup2 {
+    position: relative;
+    width:70px;
+    height: 50px;
+    padding-left: 1300px;
+
+}
+
+#rtlstraight2 {
+    position: relative;
+    width:70px;
+    height: 50px;
+    padding-left: 1300px;
+
+}
+
+#A1 {
+    position: absolute;
+    top:42%;
+    font-size: 50px;
+
+}
+
+#A2 {
+    position: absolute;
+    top:52%;
+    font-size: 50px;
+
+}
+#A3 {
+    position: absolute;
+    top:62%;
+    font-size: 50px;
+
+}
+#A4 {
+    position: absolute;
+    top: 750px;
+    font-size: 50px;
+
+}
+
+span
+{
+    font-size: 60px;
+    color: red;
+}
+
+
+#v1{
+    background-color: palegreen;
+    width: 730px;
+    height: 750px;
+    position: absolute;
+
+}
+
+#v2{
+    background-color: saddlebrown;
+    width: 730px;
+    height: 750px;
+    position: absolute;
+    right: 0;
+}
+#video1 {
+
+
+}
+#video2 {
+
+}
+
+#make {
+    position: absolute;
+    color: yellowgreen;
+    z-index: 1000;
+    font-size: 150px;
+    padding-left: 200px;
+    padding-right: 0px;
+    padding-top: 200px;
+
+}
+#choice {
+    position: absolute;
+    color: saddlebrown;
+    z-index: 1000;
+    font-size: 150px;
+    padding-left: 70px;
+    padding-top: 10px;
+}
+
+
+#about {
+    height: 600px;
+    /*background: linear-gradient(45deg, rgba(0,255,100,5) 50%, rgba(250,100,10,1) 70%);*/
+    background-color: darkolivegreen;
+}
+
+
+#abhi {
+    font-size: 50px;
+    color: tan;
+    position: absolute;
+    left: 570px;
+    padding-top: 130px;
+    padding-bottom: 0px;
+}
+
+#profilepic {
+    border-radius: 30%;
+    width: 200px;
+    height: 300px;
+    position: relative;
+    top: 20%;
+    left: 20%;
+
+}
+
+#nu {
+    font-size: 30px;
+    color: tan;
+    position: relative;
+    left: 570px;
+    padding-top: 0px;
+    top: -15%;
+}
+
+
+
+header {
+    position: fixed;
+    z-index: 10000;
+}
